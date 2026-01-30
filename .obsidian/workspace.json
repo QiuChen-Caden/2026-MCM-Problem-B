@@ -25,17 +25,14 @@
             "id": "505d1b23c52af3f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "water-research/未命名 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,14 +194,19 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1412c8aa8e2615ef",
+  "active": "505d1b23c52af3f9",
   "lastOpenFiles": [
+    "新建文件夹/未命名 1.md",
+    "新建文件夹/星舰运力与成本评估.md",
+    "新建文件夹/地月运输战略分析报告.md",
+    "新建文件夹/未命名.md",
+    "资料与综述调研清单.md",
+    "新建文件夹",
     "2026_MCM_Problem_B_CN.md",
     "2026_MCM_Problem_B.md",
     "water-research/水资源研究参数清单.md",
     "water-research/未命名.md",
     "water-research/水循环与再生技术分析报告.md",
-    "water-research/未命名 1.md",
-    "资料与综述调研清单.md"
+    "water-research/未命名 1.md"
   ]
 }
